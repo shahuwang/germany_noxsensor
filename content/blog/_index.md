@@ -1,5 +1,5 @@
 ---
 title: Blog
-linkTitle: "blog"
+linkTitle: "Blog"
 breadcrumbs: true
 ---

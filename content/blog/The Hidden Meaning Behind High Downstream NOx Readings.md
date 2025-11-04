@@ -1,40 +1,39 @@
 ---
-title: Ammonia Slip -- The Hidden Meaning Behind High Downstream NOx Readings
-description: Is it the Probe or the Module? Dissecting the NOx Sensor System for Accurate Repair
+title: Ammoniak-Schlupf – Die Verborgene Bedeutung Hoher NOx-Messwerte Nachgeschaltet
+description: Ist es die Sonde oder das Modul? Das NOx-Sensor-System für eine Präzise Reparatur Analysieren
 breadcrumbs: true
 date: "2023-07-18T00:35:28+08:00"
 draft: false
 ---
-### **Decoding Ammonia Slip: How NOx Sensors Reveal SCR Over-Dosing**
+### **Ammoniak-Schlupf Entschlüsseln: Wie NOx-Sensoren eine SCR-Überdosierung Aufdecken**
 
-A common point of confusion in SCR diagnostics is a high NOx reading from the downstream sensor. While this usually indicates NOx is escaping the system, it can also be a tell-tale sign of **Ammonia Slip** (NH3). This phenomenon is critical to understand, as it confirms an over-dosing issue, not necessarily a failed sensor.
+Ein häufiger Verwirrungspunkt bei der SCR-Diagnose ist ein hoher NOx-Messwert vom nachgeschalteten Sensor. Obwohl dies normalerweise darauf hindeutet, dass NOx aus dem System entweicht, kann es auch ein verräterisches Zeichen für **Ammoniak-Schlupf** (NH3) sein. Dieses Phänomen ist entscheidend zu verstehen, da es ein Überdosierungsproblem bestätigt und nicht notwendigerweise einen defekten Sensor.
 
-### **The NH3 Cross-Sensitivity Principle**
+### **Das NH3-Kreuzempfindlichkeitsprinzip**
 
-NOx sensors, based on the electrochemical principle of Zirconia cells, are designed to measure NO and NO2. However, they exhibit an unavoidable **cross-sensitivity to Ammonia (NH3)**.
+NOx-Sensoren, die auf dem elektrochemischen Prinzip der Zirkonoxid-Zellen basieren, sind dafür ausgelegt, NO und NO2 zu messen. Allerdings weisen sie eine unvermeidbare **Kreuzempfindlichkeit gegenüber Ammoniak (NH3)** auf.
 
-* NH3 is the reductant used in the SCR process. In a healthy system, NH3 is consumed by the catalyst.
-* If too much DEF is injected (over-dosing), the catalyst runs out of NOx to react with, and the excess, unreacted NH3 leaks through the system—this is **Ammonia Slip**.
-* When the downstream NOx sensor encounters the NH3, it interprets the gas as NOx and reports an inaccurately high NOx value.
+* NH3 ist das Reduktionsmittel, das im SCR-Prozess verwendet wird. In einem gesunden System wird NH3 vom Katalysator verbraucht.
+* Wenn zu viel DEF eingespritzt wird (Überdosierung), gehen dem Katalysator die NOx-Moleküle zur Reaktion aus, und das überschüssige, nicht umgesetzte NH3 entweicht durch das System – dies ist der **Ammoniak-Schlupf**.
+* Wenn der nachgeschaltete NOx-Sensor auf das NH3 trifft, interpretiert er das Gas als NOx und meldet einen ungenau hohen NOx-Wert.
 
-### **Diagnosing Ammonia Slip via Live Data**
+### **Ammoniak-Schlupf Mittels Live-Daten Diagnostizieren**
 
-The pattern of the NOx readings reveals the presence of NH3 slip:
+Das Muster der NOx-Messwerte enthüllt die Anwesenheit von NH3-Schlupf:
 
-| Parameter | Reading During NH3 Slip | Conclusion |
+| Parameter | Messwert Während NH3-Schlupf | Schlussfolgerung |
 | :--- | :--- | :--- |
-| **Upstream (Inlet) NOx** | Normal or High | Engine is producing NOx. |
-| **Downstream (Outlet) NOx** | Unusually **High** and potentially **Spiking** | The reading is artificially high due to NH3 interference. |
-| **Calculated SCR Efficiency** | Appears to **Drop Drastically** or go negative | The ECU believes the catalyst is suddenly failing, but the physical issue is DEF over-dosing. |
+| **Vorgeschaltetes (Einlass-) NOx** | Normal oder Hoch | Der Motor produziert NOx. |
+| **Nachgeschaltetes (Auslass-) NOx** | Ungewöhnlich **Hoch** und möglicherweise **Spitzenbildend** | Der Messwert ist künstlich hoch aufgrund der NH3-Interferenz. |
+| **Berechnete SCR-Effizienz** | Scheint **Drastisch Abzufallen** oder wird negativ | Die ECU glaubt, der Katalysator versagt plötzlich, aber das eigentliche physische Problem ist die DEF-Überdosierung. |
 
-### **Why NH3 Slip is a Problem**
+### **Warum NH3-Schlupf ein Problem Ist**
 
-Ammonia Slip is not just a diagnostic headache; it has real-world consequences:
+Ammoniak-Schlupf ist nicht nur ein diagnostisches Kopfzerbrechen; er hat reale Konsequenzen:
 
-1.  **Compliance Risk:** Even if the NOx is reduced, high NH3 emissions can violate non-NOx emissions standards and are easily detectable by an acrid odor.
-2.  **DEF Waste:** Over-dosing means DEF is being consumed inefficiently.
-3.  **Sensor Contamination:** Persistent NH3 slip leads to the formation of solid DEF byproducts on the downstream NOx sensor and the SCR catalyst, accelerating component failure.
+1.  **Konformitätsrisiko:** Selbst wenn das NOx reduziert wird, können hohe NH3-Emissionen Nicht-NOx-Emissionsstandards verletzen und sind leicht durch einen beißenden Geruch nachweisbar.
+2.  **DEF-Verschwendung:** Überdosierung bedeutet, dass DEF ineffizient verbraucht wird.
+3.  **Sensorkontamination:** Anhaltender NH3-Schlupf führt zur Bildung fester DEF-Nebenprodukte am nachgeschalteten NOx-Sensor und am SCR-Katalysator, was den Komponentenausfall beschleunigt.
 
-Our sensors provide highly responsive and stable readings that allow ECU control logic to quickly identify and correct NH3 slip conditions, protecting both the environment and the entire SCR investment.
+Unsere Sensoren liefern äußerst reaktionsschnelle und stabile Messwerte, die es der ECU-Steuerlogik ermöglichen, NH3-Schlupf-Bedingungen schnell zu identifizieren und zu korrigieren, wodurch sowohl die Umwelt als auch die gesamte SCR-Investition geschützt werden.
 
----

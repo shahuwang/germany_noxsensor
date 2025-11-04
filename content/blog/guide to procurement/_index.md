@@ -1,85 +1,84 @@
 ---
-linkTitle: "guide-to-procurement"
-title: Guide to procurement
-description: How to Purchase Our Products
+linkTitle: "Leitfaden für die Beschaffung"
+title: Leitfaden für die Beschaffung
+description: Wie Sie sehen, werden auf unserer Website weder Produktpreise angezeigt noch bieten wir eine direkte Online-Bestellfunktion an. Dieser Ansatz basiert auf den folgenden Gründen, die letztendlich unseren Kunden zugutekommen
 breadcrumbs: true
 date: "2025-10-19T00:35:28+08:00"
 draft: false
 ---
-If you are viewing this page, you are interested in our products! Whatever your questions, concerns, or needs, please **immediately send an email to fortisor@163.com**. You may write the email in your native language, and we will reply to you as quickly as possible.
 
-As you can see, our website does not display product prices or offer a direct online ordering function. This approach is based on the following reasons, which ultimately benefit our customers:
+## Leitfaden für die Beschaffung
 
-* **1. Product Diversity and User Experience:** NOx sensors come in a vast variety of models and specifications. Listing every single model and spec for direct ordering would make the website overwhelmingly complex, resulting in a poor user experience.
-* **2. Global Supply Complexity:** We supply our products worldwide, and different countries have significant variations in tariffs, taxes, shipping costs, and customs regulations. Direct online pricing cannot accurately account for these differences.
-* **3. High Transaction Costs:** Online payment services for direct customer orders typically charge a minimum of 3% per transaction. As our products are mainly for large-volume, business-to-business (B2B) procurement, this 3% fee would substantially increase your overall sourcing cost.
-* **4. Protecting Customer Profit Margins:** Making our wholesale prices transparent could negatively impact our distributors and partners. They need sufficient profit margins when reselling our products, and price transparency would compress their pricing space.
-* **5. Building Long-Term Partnerships:** We aim to establish long-term, stable cooperation, not just single, one-off transactions. We prefer to communicate via email to understand your specific needs, allowing us to provide better tailored products and superior service.
+Wenn Sie diese Seite sehen, sind Sie an unseren Produkten interessiert! Egal welche Fragen, Bedenken oder Bedürfnisse Sie haben, senden Sie bitte **sofort eine E-Mail an fortisor@163.com**. Sie können die E-Mail in Ihrer Muttersprache verfassen, und wir werden Ihnen so schnell wie möglich antworten.
 
-**Therefore, please contact us directly via email.** We will provide you with the most suitable product recommendations and a precise quotation tailored to your requirements.
+Wie Sie sehen, werden auf unserer Website weder Produktpreise angezeigt noch bieten wir eine direkte Online-Bestellfunktion an. Dieser Ansatz basiert auf den folgenden Gründen, die letztendlich unseren Kunden zugutekommen:
 
-***
+* **1. Produktvielfalt und Benutzererfahrung:** NOx-Sensoren gibt es in einer riesigen Vielfalt an Modellen und Spezifikationen. Das Auflisten jedes einzelnen Modells und jeder Spezifikation für die Direktbestellung würde die Website überwältigend komplex machen, was zu einer schlechten Benutzererfahrung führen würde.
+* **2. Globale Angebotskomplexität:** Wir liefern unsere Produkte weltweit, und verschiedene Länder haben erhebliche Unterschiede bei Zöllen, Steuern, Versandkosten und Zollbestimmungen. Direkte Online-Preise können diese Unterschiede nicht genau berücksichtigen.
+* **3. Hohe Transaktionskosten:** Online-Zahlungsdienste für direkte Kundenbestellungen berechnen in der Regel mindestens 3 % pro Transaktion. Da unsere Produkte hauptsächlich für Großvolumen-Geschäfte zwischen Unternehmen (B2B) bestimmt sind, würde diese 3%-Gebühr Ihre gesamten Beschaffungskosten erheblich erhöhen.
+* **4. Schutz der Gewinnmargen der Kunden:** Die Offenlegung unserer Großhandelspreise könnte sich negativ auf unsere Händler und Partner auswirken. Sie benötigen ausreichende Gewinnmargen beim Weiterverkauf unserer Produkte, und Preistransparenz würde ihren Preisspielraum einschränken.
+* **5. Aufbau langfristiger Partnerschaften:** Unser Ziel ist der Aufbau einer langfristigen, stabilen Zusammenarbeit, nicht nur einzelner, einmaliger Transaktionen. Wir ziehen es vor, per E-Mail zu kommunizieren, um Ihre spezifischen Bedürfnisse zu verstehen und Ihnen so besser zugeschnittene Produkte und überlegenen Service bieten zu können.
 
-## 💡 Missing Part Numbers (OE/Part Numbers)
+**Bitte kontaktieren Sie uns daher direkt per E-Mail.** Wir werden Ihnen die am besten geeigneten Produktempfehlungen und ein präzises, auf Ihre Anforderungen zugeschnittenes Angebot zukommen lassen.
 
-We understand that the Original Equipment (OE) or part numbers listed on our website may not be comprehensive. **If you cannot find the specific OE number you require, please email us directly.** We likely have the corresponding product available to meet your needs.
 
-***
+## 💡 Fehlende Teilenummern (OE/Part Numbers)
 
-## ❓ Frequently Asked Questions (FAQ)
+Wir verstehen, dass die auf unserer Website aufgeführten Original Equipment (OE) oder Teilenummern möglicherweise nicht vollständig sind. **Wenn Sie die spezifische OE-Nummer, die Sie benötigen, nicht finden können, senden Sie uns bitte direkt eine E-Mail.** Wir haben wahrscheinlich das entsprechende Produkt verfügbar, um Ihre Bedürfnisse zu erfüllen.
 
-We have summarized the following common questions regarding customer procurement needs and concerns:
 
-### **1. What is the quality and warranty of your products?**
+## ❓ Häufig gestellte Fragen (FAQ)
 
-Our **NOx Sensors** use sensing probes from the **NGK Company**, which offers industry-leading sensing stability. This effectively prevents sensing inaccuracies caused by signal drift. Furthermore, our ECUs utilize **automotive-grade chips**. The quality of both the probe and the chip are superior to many common aftermarket NOx sensors on the market.
+Wir haben die folgenden häufigen Fragen zu den Beschaffungsbedürfnissen und Bedenken von Kunden zusammengefasst:
 
-* **Warranty:** We provide a **15-month warranty** for our **NOx Sensors** to our distributors. Our **AdBlue Pump / Urea Dosing Module** products carry a **12-month warranty**.
+### **1. Wie sind die Qualität und die Garantie Ihrer Produkte?**
 
-### **2. What is your product pricing like? Can you offer discounts?**
+Unsere **NOx-Sensoren** verwenden Messsonden der **NGK Company**, die eine branchenführende Messstabilität bieten. Dies verhindert effektiv Messungenauigkeiten durch Signaldrift. Darüber hinaus verwenden unsere Steuergeräte (ECUs) **Automobil-taugliche Chips**. Die Qualität sowohl der Sonde als auch des Chips ist vielen gängigen NOx-Sensoren auf dem Ersatzteilmarkt überlegen.
 
-Our prices are significantly **lower than OEM/Original** parts but are slightly higher than some low-quality aftermarket NOx sensors. We do not use low prices to attract customers because establishing a stable automotive parts business is challenging. Once established, a quality-based partnership leads to long-term, win-win cooperation, which low-quality products cannot guarantee.
+* **Garantie:** Wir gewähren unseren Händlern eine **15-monatige Garantie** für unsere **NOx-Sensoren**. Unsere Produkte **AdBlue Pumpe / Harnstoffdosierungsmodul** haben eine **12-monatige Garantie**.
 
-Our prices being much lower than OEM parts does not mean the quality is significantly inferior. OEM parts are more expensive primarily due to:
+### **2. Wie ist Ihre Preisgestaltung? Können Sie Rabatte anbieten?**
 
-* **High Yield Rate Costs:** Achieving ultra-high yield rates (e.g., 99.99% vs. 99.9%) requires massive R&D and testing investment, reflected in the price.
-* **Brand Premium:** A significant portion of the cost is for brand value, which does not impact the actual quality or performance.
-* **Long-Term Stocking:** OEMs must stock parts for many years of after-sales service, and the associated capital and management costs are built into the price.
-* **Vehicle Cost Subsidies:** OEMs often use accessories to generate higher profits, which can subsidize the cost of the complete vehicle.
+Unsere Preise sind deutlich **niedriger als OEM/Original-Teile**, aber etwas höher als bei einigen minderwertigen NOx-Sensoren auf dem Ersatzteilmarkt. Wir verwenden keine niedrigen Preise, um Kunden anzuziehen, da der Aufbau eines stabilen Geschäfts mit Autoteilen eine Herausforderung darstellt. Einmal etabliert, führt eine qualitätsbasierte Partnerschaft zu einer langfristigen, Win-Win-Kooperation, die minderwertige Produkte nicht garantieren können.
 
-**Discount Policy:** We encourage customers to order a **sample first**, then proceed with a **small batch order**, and gradually increase the volume as the cooperation stabilizes. We offer a **tiered discount policy** based on purchasing volume; the larger the order, the greater the discount.
+Dass unsere Preise viel niedriger sind als die von OEM-Teilen, bedeutet nicht, dass die Qualität deutlich schlechter ist. OEM-Teile sind hauptsächlich aufgrund folgender Punkte teurer:
 
-### **3. What is your lead time for delivery?**
+* **Kosten für hohe Ausschussquoten:** Das Erreichen ultrahoher Ausschussquoten (z. B. 99,99 % vs. 99,9 %) erfordert massive F&E- und Testinvestitionen, die sich im Preis widerspiegeln.
+* **Markenprämie:** Ein erheblicher Teil der Kosten entfällt auf den Markenwert, der die tatsächliche Qualität oder Leistung nicht beeinflusst.
+* **Langfristige Lagerhaltung:** OEMs müssen Teile für viele Jahre des After-Sales-Services auf Lager halten, und die damit verbundenen Kapital- und Verwaltungskosten sind im Preis enthalten.
+* **Subventionen für Fahrzeugkosten:** OEMs nutzen Zubehör oft, um höhere Gewinne zu erzielen, die die Kosten des Gesamtfahrzeugs subventionieren können.
 
-For orders up to **100 units**, we can generally ship within **48 hours**. For larger orders exceeding 100 units, we will provide a specific delivery time based on the circumstances, but it typically **will not exceed 3–5 days**.
+**Rabattrichtlinie:** Wir ermutigen Kunden, **zuerst ein Muster zu bestellen**, dann mit einer **Kleinserienbestellung** fortzufahren und das Volumen schrittweise zu erhöhen, wenn sich die Zusammenarbeit stabilisiert. Wir bieten eine **gestaffelte Rabattrichtlinie** basierend auf dem Einkaufsvolumen; je größer die Bestellung, desto größer der Rabatt.
 
-### **4. What are your shipping methods and costs?**
+### **3. Wie lange ist Ihre Lieferzeit?**
 
-We typically use international express services such as **DHL, FedEx, and UPS**. Shipping costs vary depending on the destination country and region, but delivery can generally be made to most countries worldwide within **10 days**. The shipping cost will be quoted alongside the product price.
+Bei Bestellungen bis zu **100 Einheiten** können wir in der Regel innerhalb von **48 Stunden** versenden. Bei größeren Bestellungen von mehr als 100 Einheiten geben wir eine spezifische Lieferzeit basierend auf den Umständen an, die jedoch in der Regel **3–5 Tage nicht überschreiten** wird.
 
-### **5. Which payment methods do you accept?**
+### **4. Welche Versandmethoden und Kosten haben Sie?**
 
-We will try our best to provide a **local bank account** in your country to save you international transfer fees. If this is not possible, we can accept cross-border transfers to our **Hong Kong bank account** or provide you with a secure **online credit card payment link** (powered by Alibaba payment services).
+Wir verwenden in der Regel internationale Expressdienste wie **DHL, FedEx und UPS**. Die Versandkosten variieren je nach Zielland und Region, aber die Lieferung kann in der Regel in die meisten Länder weltweit innerhalb von **10 Tagen** erfolgen. Die Versandkosten werden zusammen mit dem Produktpreis angegeben.
 
-### **6. Can you provide invoices and assist with customs?**
+### **5. Welche Zahlungsmethoden akzeptieren Sie?**
 
-We can provide a formal invoice. The **HS Code** and declared **Customs Value** can be adjusted according to your requirements to help reduce taxes or meet specific customs restrictions in your country.
+Wir werden unser Bestes tun, um ein **lokales Bankkonto** in Ihrem Land bereitzustellen, um Ihnen internationale Überweisungsgebühren zu ersparen. Falls dies nicht möglich ist, können wir grenzüberschreitende Überweisungen auf unser **Bankkonto in Hongkong** akzeptieren oder Ihnen einen sicheren **Online-Kreditkartenzahlungslink** (betrieben von Alibaba-Zahlungsdiensten) zur Verfügung stellen.
 
-### **7. Do you offer OEM/ODM services?**
+### **6. Können Sie Rechnungen bereitstellen und beim Zoll helfen?**
 
-Yes, we offer **OEM/ODM services** based on customer needs. This includes, but is not limited to: customizing the **logo and brand name** on the NOx product surface, as well as **custom packaging boxes**. Please contact us via email to discuss your specific customization requirements.
+Wir können eine formelle Rechnung bereitstellen. Der **HS-Code** und der deklarierte **Zollwert** können an Ihre Anforderungen angepasst werden, um Steuern zu senken oder spezifische Zollbeschränkungen in Ihrem Land zu erfüllen.
 
-***
+### **7. Bieten Sie OEM/ODM-Dienstleistungen an?**
 
-## 🤝 Your Communication and Procurement Process
+Ja, wir bieten **OEM/ODM-Dienstleistungen** basierend auf Kundenbedürfnissen an. Dazu gehören, sind aber nicht beschränkt auf: die Anpassung des **Logos und Markennamens** auf der Oberfläche des NOx-Produkts sowie **benutzerdefinierte Verpackungskartons**. Bitte kontaktieren Sie uns per E-Mail, um Ihre spezifischen Anpassungsanforderungen zu besprechen.
 
-1.  **Initial Contact:** **Immediately email fortisor@163.com** with any inquiries or requirements you have.
-2.  **Detail Confirmation:** We will communicate to confirm the product price, quantity, model, lead time, shipping method, and other necessary details.
-3.  **Quotation & Payment Info:** We will provide you with a formal quotation and the corresponding payment instructions.
-4.  **Payment Arrangement:** After confirming the quotation, you arrange the payment. We advise starting with a small batch order to build mutual trust, as we understand concerns about fund security.
-5.  **Shipment:** Upon receiving the payment, we immediately arrange the shipment and provide you with the **tracking number** and necessary customs clearance documents (invoice, etc.).
-6.  **Customs Clearance:** You receive the customs/courier notification, pay any required duties/fees, and collect the goods.
-7.  **Goods Inspection:** Upon receiving the goods, inspect them for compliance with your order. Please contact us immediately if there are any issues; we will assist actively in resolving them.
-8.  **Next Order:** If you are satisfied with the product, we welcome continued procurement and will offer even better pricing and service based on your order volume.
 
-***
+## 🤝 Ihr Kommunikations- und Beschaffungsprozess
+
+1.  **Erste Kontaktaufnahme:** **Senden Sie sofort eine E-Mail an fortisor@163.com** mit allen Anfragen oder Anforderungen, die Sie haben.
+2.  **Detailbestätigung:** Wir werden kommunizieren, um den Produktpreis, die Menge, das Modell, die Lieferzeit, die Versandmethode und andere notwendige Details zu bestätigen.
+3.  **Angebot & Zahlungsinformationen:** Wir stellen Ihnen ein formelles Angebot und die entsprechenden Zahlungsanweisungen zur Verfügung.
+4.  **Zahlungsvereinbarung:** Nachdem Sie das Angebot bestätigt haben, veranlassen Sie die Zahlung. Wir raten dazu, mit einer Kleinserienbestellung zu beginnen, um gegenseitiges Vertrauen aufzubauen, da wir Bedenken hinsichtlich der Geldsicherheit verstehen.
+5.  **Versand:** Nach Zahlungseingang veranlassen wir sofort den Versand und stellen Ihnen die **Tracking-Nummer** sowie die notwendigen Zollabfertigungsdokumente (Rechnung usw.) zur Verfügung.
+6.  **Zollabfertigung:** Sie erhalten die Zoll-/Kurierbenachrichtigung, zahlen alle erforderlichen Abgaben/Gebühren und holen die Ware ab.
+7.  **Warenprüfung:** Nach Erhalt der Ware prüfen Sie diese auf Übereinstimmung mit Ihrer Bestellung. Bitte kontaktieren Sie uns sofort, wenn es Probleme gibt; wir werden aktiv bei deren Lösung helfen.
+8.  **Nächste Bestellung:** Wenn Sie mit dem Produkt zufrieden sind, freuen wir uns über fortlaufende Beschaffung und bieten basierend auf Ihrem Bestellvolumen noch bessere Preise und Service.
+
